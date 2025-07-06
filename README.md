@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Back-End%20Engineer-ALX-blue" />
-  <img src="https://img.shields.io/badge/Cybersecurity-NDA%20Final%20Year-critical" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-Enthusiast-important" />
 </p>
 
