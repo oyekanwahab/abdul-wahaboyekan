@@ -65,9 +65,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oyekanwahab&show_icons=true&theme=default" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyekanwahab" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,9 +75,9 @@
 ## 🤝 Connect with Me
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat-square" /></a>
+  <a href="mailto:oyekanwahab@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/abdul-wahab-oyekan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" /></a>
+  <a href="https://twitter.com/oyekanwahab"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat-square" /></a>
 </p>
 
 ---
